@@ -1,8 +1,3 @@
-
-
-
-
-
 #slicing-extracting a portion or part of a string
 # syntax-> variable_name[start_index:stop_index]
 # slice 'Ali' from Alice
